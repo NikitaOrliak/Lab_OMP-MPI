@@ -1,0 +1,1 @@
+D:\Unik\Microsoft Visual Studio\projs\Odd-Even_OpenMP\x64\Debug\Odd-Even_OpenMP.exe

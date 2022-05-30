@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Unik\Microsoft Visual Studio\projs\Odd-Even_OpenMP\Source.cpp(74,14): error C2065: arr: необъявленный идентификатор
+D:\Unik\Microsoft Visual Studio\projs\Odd-Even_OpenMP\Source.cpp(74,17): error C2541: delete: нельзя удалять объекты, не являющиеся указателями

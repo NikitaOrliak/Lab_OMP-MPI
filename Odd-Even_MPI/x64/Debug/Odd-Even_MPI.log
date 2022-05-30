@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Unik\Microsoft Visual Studio\projs\Odd-Even_MPI\Source.cpp(112,17): warning C4101: request: неиспользованная локальная переменная
+D:\Unik\Microsoft Visual Studio\projs\Odd-Even_MPI\Source.cpp(126,16): warning C4101: timeSpent: неиспользованная локальная переменная
+  Odd-Even_MPI.vcxproj -> D:\Unik\Microsoft Visual Studio\projs\Odd-Even_MPI\x64\Debug\Odd-Even_MPI.exe
